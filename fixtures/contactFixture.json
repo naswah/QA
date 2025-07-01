@@ -1,0 +1,15 @@
+{
+    "validInput": {
+        "firstNameInput" : "AatmaRam",
+        "lastNameInput" : "Khinaima",
+        "dob": "2002-12-02",
+        "email": "test123@gmail.com",
+        "phone": "3333333333",
+        "street1": "Kathmandu",
+        "street2": "Kathmandu",
+        "city": "Ktm",
+        "stateProvince": "Bagmati",
+        "postalCode": "33333",
+        "country": "Nepal"
+    }
+}
