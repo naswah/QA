@@ -1,0 +1,4 @@
+cmd: path
+git clone <github repository url>
+cd <name of cloned project>
+git status
